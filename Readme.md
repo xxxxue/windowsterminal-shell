@@ -1,3 +1,27 @@
+魔改了创建的项 和 名称
+Default 是 菜单型的好几个命令
+Flat 是 最外层的  一个 PowerShell 命令 (放在最外面方便)
+
+安装与卸载命令
+
+```
+install.ps1
+uninstall.ps1
+
+install.ps1 Flat
+uninstall.ps1 Flat
+```
+
+效果
+
+![image-20220914143430016](img.assets/image-20220914143430016.png)
+
+
+
+
+
+
+
 # PowerShell Scripts to Install/Uninstall Context Menu Items for Windows Terminal
 
 *A project backed by [LeXtudio Inc.](https://www.lextudio.com)*

@@ -57,4 +57,4 @@ if ($layout -eq "Default") {
     Remove-Item -Path 'Registry::HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\MenuTerminalAdminMini' -Recurse -ErrorAction Ignore | Out-Null
 }
 
-Write-Host "Windows Terminal uninstalled from Windows Explorer context menu."
+Write-Host "卸载结束。"
