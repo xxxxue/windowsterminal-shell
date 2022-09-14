@@ -1,16 +1,28 @@
 魔改了创建的项 和 名称
-Default 是 菜单型的好几个命令
-Flat 是 最外层的  一个 PowerShell 命令 (放在最外面方便)
 
-安装与卸载命令
+Default 是 菜单型的好几个命令
+
+Flat 是 最外层的  一个 PowerShell 命令 (放在最外面, 方便使用)
+
+
+
+安装 ( 2条命令 一次执行一条)
 
 ```
 install.ps1
-uninstall.ps1
-
 install.ps1 Flat
+```
+
+
+
+卸载
+
+```
+uninstall.ps1
 uninstall.ps1 Flat
 ```
+
+
 
 效果
 
