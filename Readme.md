@@ -22,6 +22,11 @@ uninstall.ps1
 uninstall.ps1 Flat
 ```
 
+默认打开桌面路径， 新建一个快捷方式
+
+```
+pwsh -WorkingDirectory D:\Desktop
+```
 
 
 效果
